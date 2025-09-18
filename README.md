@@ -19,6 +19,7 @@ A Java Swing-based Student Grade Calculator that allows users to input marks, ca
 
 <h2>How to Run</h2>
 <li>Clone this repository:</li>
+<a href="https://github.com/Sam8411/Student-Grade-Calculator/blob/main/StudentGradeCalculator.java" ></a>
 <li>Open the project in your preferred Java IDE.</li>
 <li>Compile and run the GradeCalculator.java file.</li>
 
