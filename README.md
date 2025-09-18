@@ -10,7 +10,7 @@ A Java Swing-based Student Grade Calculator that allows users to input marks, ca
     <li>Grade (A, B, C, D, Fail)</li>
 <li>Add student to add another student marks.</li>
 <li>Class report to show overall class percentage.</li>
-<li>Grade system to kow about gradings. </li>
+<li>Grade system to know about gradings. </li>
 
 <h2>Technologies used</h2>
 <li>Java (Core Java concepts)</li>
