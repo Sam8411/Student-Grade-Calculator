@@ -8,8 +8,6 @@ A Java Swing-based Student Grade Calculator that allows users to input marks, ca
     <li>Total Marks</li>
     <li>Average Marks</li>
     <li>Grade (A, B, C, D, Fail)</li>
-<li>Clear/Reset option to re-enter values.</li>
-<li>Exit button to close the application safely.</li>
 <li>Add student to add another student marks.</li>
 <li>Class report to show overall class percentage.</li>
 <li>Grade system to kow about gradings. </li>
